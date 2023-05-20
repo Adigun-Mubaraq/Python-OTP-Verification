@@ -13,7 +13,7 @@ This Python project provides a simple and secure way to generate and verify One-
 
 3. Navigate to the project directory:
     ```shell
-    pip install smtplib
+   cd Python-OTP-Verification
 
 4. Install the required dependencies:
     ```shell
