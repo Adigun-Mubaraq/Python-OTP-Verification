@@ -9,7 +9,7 @@ This Python project provides a simple and secure way to generate and verify One-
 2. Clone this repository:
 
    ```shell
-   git clone https://github.com/YourUsername/Python-OTP-Verification.git
+   git clone https://github.com/Adigun-Mubaraq/Python-OTP-Verification.git
 
 3. Navigate to the project directory:
     ```shell
